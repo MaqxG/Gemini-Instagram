@@ -1,4 +1,4 @@
-from instagram_poster import InstagramPoster
+from test_instagram_poster import InstagramPoster
 
 def main():
     # REPLACE THESE WITH YOUR ACTUAL VALUES
